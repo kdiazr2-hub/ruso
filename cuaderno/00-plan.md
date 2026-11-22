@@ -1,5 +1,19 @@
 # Plan de estudio: ruso a través de la literatura
 
+## Perfil del estudiante
+
+- **Nivel inicial:** cero absoluto (no lee cirílico).
+- **Lenguas puente:** español (nativo) e inglés.
+- **Objetivo:** leer literatura **y** conversar. Por eso cada lección incluye una sección «Para hablar» con frases útiles en la vida real, además de la lectura.
+
+## Fase 0: el alfabeto (antes de los libros)
+
+- 00a: amigas y falsas amigas (А К М О Т · В Е Ё Н Р С У Х)
+- 00b: letras nuevas con equivalente (Б Г Д З И Й Л П Ф Э Ю Я Ы)
+- 00c: letras especiales (Ж Ц Ч Ш Щ Ь Ъ)
+
+La lección 01 se trabajará cuando termine la fase 0; por ahora sirve como vista previa.
+
 ## Orden de lectura (de más fácil a más difícil)
 
 | # | Libro | Palabras aprox. | Por qué en este orden |
@@ -23,4 +37,5 @@
 
 | Lección | Libro | Fragmento | Temas gramaticales |
 |---------|-------|-----------|--------------------|
+| 00a | — | Palabras sueltas | 12 letras; la о sin acento suena «a» |
 | 01 | Маленький принц | Dedicatoria + inicio cap. I | Alfabeto, edad con дательный, presente sin «ser», instrumental con быть, aspecto verbal |
